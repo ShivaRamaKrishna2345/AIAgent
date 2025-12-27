@@ -1,0 +1,14 @@
+
+{
+  "name": "invoice-memory-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "demo": "node dist/demoRunner.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}

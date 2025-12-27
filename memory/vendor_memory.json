@@ -1,0 +1,14 @@
+[
+  {
+    "vendor": "Supplier GmbH",
+    "type": "serviceDate",
+    "value": "2024-01-01",
+    "confidence": 0.8
+  },
+  {
+    "vendor": "Supplier GmbH",
+    "field": "serviceDate",
+    "pattern": "Leistungsdatum found in rawText",
+    "confidence": 0.95
+  }
+]
